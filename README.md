@@ -5,4 +5,4 @@ This is my personal website!.
 
 [Samuel Albanese](https://spalby.dev)
 
-![Home](home.png)
+![Home](assets/img/bob.jpg)
