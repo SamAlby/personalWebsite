@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-title: Personal website
+title: Samuel Albanese
 markdown: kramdown
 logo: assets/img/bob.jpg
 author: Sam Albanese
 description: 
   Undergraduate studying Computer Science at St Marys College of Maryland <br/>
   Focus in Software Development<br/>
-  <a href="mailto:samuelpalbanese@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/spalby/">LinkedIn</a> | <a href="https://www.instagram.com/samapplebees/">Instagram</a> <a class="fab fa-github-square fa-3x" href="https://www.github.com/spalby/"></a>
+  <a href="mailto:samuelpalbanese@gmail.com">Email</a> | <a class="fab fa-linkedin-square fa-3x" href="https://www.linkedin.com/in/spalby/">LinkedIn</a> | <a class="fab fa-instagram-square fa-3x" href="https://www.instagram.com/samapplebees/">Instagram</a> <a class="fab fa-github-square fa-3x" href="https://www.github.com/spalby/"></a>
