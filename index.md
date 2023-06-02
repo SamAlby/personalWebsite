@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1RD501NP1L"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -10,6 +10,7 @@ layout: default
 
   gtag('config', 'G-1RD501NP1L');
 </script>
+-->
 
 <link href="https://fonts.cdnfonts.com/css/comic-sans" rel="stylesheet">
 
