@@ -1,7 +1,7 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Samuel Albanese
 markdown: kramdown
-logo: assets/img/bob.jpg
+logo: 
 author: Sam Albanese
 description: 
   Undergraduate studying Computer Science at St Marys College of Maryland <br/>

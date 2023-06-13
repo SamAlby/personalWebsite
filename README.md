@@ -7,4 +7,4 @@ This is my personal website!
 
 [Samuel Albanese](https://spalby.dev)
 
-![Home](assets/img/bob.jpg)
+![Home]()
