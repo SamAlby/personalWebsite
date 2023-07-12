@@ -1,9 +1,14 @@
 remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Samuel Albanese
 markdown: kramdown
 logo: 
 author: Sam Albanese
-description: 
+description:
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="spalby" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/spalby?trk=profile-badge">Sam Albanese</a></div>
   Undergraduate studying Computer Science at St Marys College of Maryland <br/>
   Focus in Software Development<br/>
+  &nbsp;
   <a class="fa fa-envelope-square fa-3x" href="mailto:samuelpalbanese@gmail.com"></a> &nbsp; <a class="fab fa-linkedin fa-3x" href="https://www.linkedin.com/in/spalby/"></a> &nbsp; <a class="fab fa-instagram-square fa-3x" href="https://www.instagram.com/samapplebees/"></a> &nbsp; <a class="fab fa-github-square fa-3x" href="https://www.github.com/spalby/"></a>
