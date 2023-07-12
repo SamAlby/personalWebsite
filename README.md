@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b2ba0de9-9fb1-4dce-a7a8-7d7e2454f2cb/deploy-status)](https://app.netlify.com/sites/spalby/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b0d56d5e-b845-4e95-a23f-84923d76ceb6/deploy-status)](https://app.netlify.com/sites/spalby/deploys)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com)
 
