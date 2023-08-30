@@ -1,5 +1,4 @@
-remote_theme: jekyll-remote-theme
-plugins: 
+remote_theme: pages-themes/minimal@v0.2.0
 title: Samuel Albanese
 markdown: kramdown
 logo: 
