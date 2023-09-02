@@ -1,7 +1,8 @@
+//Written by Samuel Albanese circa 2018
 //To clarify, this program was written completely indepenently
 
 //Global variables\\
-//This section was completed independently
+
 var hp;
 var stm;
 var ftg;
@@ -17,10 +18,10 @@ var worEcon;
 var worWtr;
 var worHmr;
 var areaBlock = 1;
-//This section was completed independently
+
 //Global Variables\\
 
-//This section was completed independently v
+
 onEvent("button1", "click", function() 
 {
   pickStats();
@@ -242,11 +243,10 @@ function pickStats()
     
     
     
-  }
-//This section was completed independently ^  
+  }  
   
   
-//This section was completed independently v
+
   setScreen("pickStatsScreen");
   setStats();
   onEvent("slider1", "change", function() 
@@ -311,12 +311,12 @@ function pickStats()
     
     
   });
-  //This section was completed independently ^
+
   
    
   
 }
-//This section was completed independently v
+
 function startTheMachine()
 {
   hp = (statStr * 5) + 20;
@@ -588,4 +588,3 @@ function getSurround(area)
     }
     
   }
-//This section was completed independently ^
