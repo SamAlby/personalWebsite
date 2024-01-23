@@ -55,6 +55,11 @@
 
   body {
     font-family: var(--base-font-family);
+    
+  }
+
+  img{
+    border-radius: var(--border-radius-medium);
   }
 
 
